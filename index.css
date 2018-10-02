@@ -21,3 +21,15 @@ ul
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px
 }
+
+ol
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#arduino-code
+{
+    background: gainsboro;
+    font-family: monospace;
+}
